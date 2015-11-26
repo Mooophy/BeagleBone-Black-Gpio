@@ -11,9 +11,6 @@ int main()
 {
     Binary_IO io;
 
-    // @test: 	input and output signals
-    // @result:	Succeeded.
-    // @author:	@Yue Wang
     std::cout << "Plz enter:\n";
     while (true)
     {
